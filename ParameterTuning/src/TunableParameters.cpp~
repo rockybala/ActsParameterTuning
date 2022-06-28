@@ -1,5 +1,0 @@
-#include "ActsTuning/TunableParameters.hpp"
-
-void TunableParameters::extract(){
-
-}
